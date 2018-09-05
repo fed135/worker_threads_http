@@ -1,0 +1,14 @@
+{
+  "name": "mpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.83.0"
+  }
+}
